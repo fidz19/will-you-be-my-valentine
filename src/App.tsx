@@ -17,7 +17,7 @@ export default function Page() {
       "What if I asked really nicely?",
       "Pretty please",
       "With a cheese cake on top",
-      "What about a macha latte?",
+      "What about a Jung-won?",
       "PLEASE POOKIE",
       "But :*(",
       "I am going to die",
